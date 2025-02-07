@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://azure-butterfly05.github.io/too-the-moon/sitemap.xml
